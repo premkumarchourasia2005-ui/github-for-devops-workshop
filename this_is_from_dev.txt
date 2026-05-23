@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 this is from dev branch jfjfjfj
+=======
+this is from dev branch and i will use merge into the main branch by dev branch.
+>>>>>>> dev
+
+
+
